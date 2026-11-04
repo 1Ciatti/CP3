@@ -1,0 +1,3 @@
+teste b;Acao;500;1.00;7.00
+teste a;Cripto;10;5.00;6.00
+teste c ;Acao;68;78.00;51.00
